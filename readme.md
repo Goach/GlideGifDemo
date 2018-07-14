@@ -1,0 +1,1 @@
+实现Glide通过framesequence进行gif图片编解码的过程，从而优化gif加载慢的问题
